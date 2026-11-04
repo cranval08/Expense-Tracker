@@ -3,7 +3,7 @@
 - [x] Day 1: Git + hello world (`hello.py`, README goals)
 - [x] Day 2: Variables and data types (store one expense)
 - [x] Day 3: Input and strings (f-strings)
-- [ ] Day 4: Conditionals (flag "high" expenses)
+- [x] Day 4: Conditionals (flag "high" expenses)
 - [ ] Day 5: Lists and loops (total of many expenses)
 - [ ] Day 6: Dictionaries (group totals by category)
 - [ ] Day 7: Review, refactor into one script, update README
