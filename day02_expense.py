@@ -1,3 +1,5 @@
+# Day 2: store one expense in variables
+
 amount = 12.50
 category = "Coffee"
 description = "Cafe Mocha"
