@@ -1,6 +1,6 @@
 # 30-Day Checklist
 ## Week 1: Python Foundations
-- [ ] Day 1: Git + hello world (`hello.py`, README goals)
+- [x] Day 1: Git + hello world (`hello.py`, README goals)
 - [ ] Day 2: Variables and data types (store one expense)
 - [ ] Day 3: Input and strings (f-strings)
 - [ ] Day 4: Conditionals (flag "high" expenses)
