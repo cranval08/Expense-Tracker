@@ -6,7 +6,7 @@
 - [x] Day 4: Conditionals (flag "high" expenses)
 - [x] Day 5: Lists and loops (total of many expenses)
 - [x] Day 6: Dictionaries (group totals by category)
-- [ ] Day 7: Review, refactor into one script, update README
+- [x] Day 7: Review, refactor into one script, update README
 
 ## Week 2: Functions, Files, and Structure
 - [ ] Day 8: Functions (`add_expense`, `total_spent`, `filter_by_category`)
