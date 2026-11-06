@@ -9,7 +9,7 @@
 - [x] Day 7: Review, refactor into one script, update README
 
 ## Week 2: Functions, Files, and Structure
-- [ ] Day 8: Functions (`add_expense`, `total_spent`, `filter_by_category`)
+- [x] Day 8: Functions (`add_expense`, `total_spent`, `filter_by_category`)
 - [ ] Day 9: Read `sample_expenses.csv` with `csv`
 - [ ] Day 10: Write filtered results to a new CSV
 - [ ] Day 11: Error handling with `try/except`
