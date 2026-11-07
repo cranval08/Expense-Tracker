@@ -11,7 +11,7 @@
 ## Week 2: Functions, Files, and Structure
 - [x] Day 8: Functions (`add_expense`, `total_spent`, `filter_by_category`)
 - [x] Day 9: Read `sample_expenses.csv` with `csv`
-- [ ] Day 10: Write filtered results to a new CSV
+- [x] Day 10: Write filtered results to a new CSV
 - [ ] Day 11: Error handling with `try/except`
 - [ ] Day 12: Split code into `src/` modules
 - [ ] Day 13: `Expense` class in `models.py`
